@@ -1,0 +1,6 @@
+framework module EWESSDK {
+  umbrella header "EWESSDK.h"
+  export *
+
+  module * { export * }
+}
